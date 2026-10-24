@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-24T17:00:05.513262+00:00",
- "count": 5,
+ "generated": "2026-10-24T17:00:37.852367+00:00",
+ "count": 7,
  "attribution": "Imagery from Mapillary contributors, CC BY-SA 4.0",
  "frames": [
   {
@@ -67,6 +67,32 @@
    "clip": 0.7445,
    "glow": 0.003,
    "yaw": 90.0
+  },
+  {
+   "id": "123593920020436",
+   "lat": 43.2262374,
+   "lon": 76.8459739,
+   "captured_at": 1630788473000,
+   "city": "Алматы",
+   "country": "KZ",
+   "sequence": "Tmn9MOwRqAfhKYaN5CD6Io",
+   "score": 0.5213,
+   "clip": 0.4329,
+   "glow": 0.875,
+   "yaw": 135.0
+  },
+  {
+   "id": "534832334294249",
+   "lat": 43.2348196,
+   "lon": 76.843884799972,
+   "captured_at": 1630788575000,
+   "city": "Алматы",
+   "country": "KZ",
+   "sequence": "Tmn9MOwRqAfhKYaN5CD6Io",
+   "score": 0.4877,
+   "clip": 0.5407,
+   "glow": 0.276,
+   "yaw": 0.0
   }
  ]
 }
