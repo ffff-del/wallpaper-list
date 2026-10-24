@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-24T12:48:55.906602+00:00",
- "count": 4,
+ "generated": "2026-10-24T17:00:05.513262+00:00",
+ "count": 5,
  "attribution": "Imagery from Mapillary contributors, CC BY-SA 4.0",
  "frames": [
   {
@@ -15,6 +15,19 @@
    "clip": 0.8322,
    "glow": 0.927,
    "yaw": 45.0
+  },
+  {
+   "id": "182646924423817",
+   "lat": 41.6478834,
+   "lon": 41.6331304,
+   "captured_at": 1670605521000,
+   "city": "Батуми",
+   "country": "GE",
+   "sequence": "t7jRQS5MAND6zCOPpKZo41",
+   "score": 0.8506,
+   "clip": 0.9838,
+   "glow": 0.318,
+   "yaw": -45.0
   },
   {
    "id": "557389399535469",
